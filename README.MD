@@ -1,5 +1,5 @@
-# Título do Projeto
-##  Breve descrição do projeto
+# Análise de Dados com Python e Pandas
+##  Análise exploratória - Pandas - MatplotLib - Jupyter Notebook
 
 <br>
   <div align="center">
@@ -7,7 +7,7 @@
       </tr>
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                Idéia e deploy por Robinson Enedino
+                deploy Robinson Enedino - Estudo curso DIO
             </td>
         <td>
             <a  href="https://www.linkedin.com/in/robinsonbrz/">
@@ -30,21 +30,10 @@ Visite meu WebSite [https://www.enedino.com.br](https://www.enedino.com.br)
 
 ## Objetivo:
 
-Lista dos objetivos
+- Análise de dados com Python e a Biblioteca Pandas
+- Exibição de dados com matplotlib
 
 
-
-# Próximas features 
-
-
-## Utilização do programa 
-
-<br>
-_______________________
-
-
-<br>
-<br>
 
 
 
